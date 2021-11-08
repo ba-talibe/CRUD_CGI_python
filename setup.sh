@@ -1,4 +1,4 @@
-chmod a+x *
+chmod -r a+x *
 
 cp * /usr/lib/cgi-bin
 a2enmod cgi
